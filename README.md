@@ -14,11 +14,11 @@ For each module:
 
 Recommended for npm 5+
 ```
-npx install-peerdeps --dev typedoc-plugin-categorize-by-path
+npx install-peerdeps --dev @blackwych/typedoc-plugin-categorize-by-path
 ```
 otherwise
 ```
-npm install -D typedoc-plugin-categorize-by-path
+npm install -D @blackwych/typedoc-plugin-categorize-by-path
 ```
 
 
