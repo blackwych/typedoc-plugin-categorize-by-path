@@ -1,8 +1,10 @@
-typedoc-plugin-categorize-by-path
-=================================
+@blackwych/typedoc-plugin-categorize-by-path
+============================================
 
 TypeDoc plugin to determine modules and categories from module paths
 
+
+## Features
 
 For each module:
 * If any of `categoryPatterns` matched to module path, the captured category will be prepended and the module name will be renamed to the captured one.
